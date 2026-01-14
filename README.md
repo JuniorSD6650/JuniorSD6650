@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Edwin Saavedra 👋</h1>
-<h3 align="center">Ingeniero de Sistemas | Full Stack Developer | 3D & VR Enthusiast</h3>
+<h3 align="center">Ingeniero de Sistemas | Full Stack & Mobile Developer | 3D & VR Enthusiast</h3>
 
 <p align="center">
-  <em>Egresado de la Universidad de Huánuco. Especializado en crear soluciones web escalables y experiencias inmersivas (VR/AR).</em>
+  <em>Egresado de la Universidad de Huánuco. Especializado en crear soluciones web escalables, aplicaciones móviles con IA y experiencias inmersivas (VR/AR).</em>
 </p>
 
 ---
@@ -13,7 +13,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,tailwind" height="50" alt="frontend logos" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py,java,cs,php" height="50" alt="languages logos" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" height="50" alt="mobile logos" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py,java,cs,php,openai" height="50" alt="languages logos" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=unity,blender,git,postman" height="50" alt="tools logos" />
 </div>
@@ -24,9 +26,10 @@
 
 | Proyecto | Descripción y Tecnologías |
 | :--- | :--- |
-| **🦁 GatilinDigital** | **Cultura & Geolocalización:** Plataforma para localizar cuadrillas de "Los Negritos de Huánuco" en tiempo real.<br>⚡ *Google Maps API, Real-time data.* |
-| **♻️ Recolector Digital** | **Smart City:** Sistema de rastreo de camiones recolectores usando Sockets para ubicación en tiempo real.<br>⚡ *WebSockets, Node.js, Maps.* |
-| **👓 TurismoSmart** | **Turismo 4.0:** Experiencia web interactiva y Realidad Virtual (360°) para promover el turismo.<br>⚡ *Unity, Meta Quest, Blender, Web 3D.* |
+| **[🥦 NutriApp (Tesis)](https://github.com/JuniorSD6650/NutriApp)** | **Salud & IA (En desarrollo 80%):** Aplicación móvil para identificar nutrientes críticos (Hierro) en alimentos mediante análisis de imágenes con IA.<br>⚡ *Flutter (Android), NestJS, OpenAI API.* |
+| **[🦁 GatilinDigital](https://github.com/JuniorSD6650/GatilinDigital)** | **Cultura & Geolocalización:** Plataforma para localizar cuadrillas de "Los Negritos de Huánuco" en tiempo real.<br>⚡ *Google Maps API, Real-time data, Web.* |
+| **[♻️ Recolector Digital](https://github.com/JuniorSD6650/localizador_recolectores_desechos)** | **Smart City:** Sistema de rastreo de camiones recolectores usando Sockets para ubicación en tiempo real.<br>⚡ *WebSockets, Node.js, Maps.* |
+| **[👓 TurismoSmart](https://github.com/JuniorSD6650/TurismoSmart)** | **Turismo 4.0:** Experiencia web interactiva y Realidad Virtual (360°) para promover el turismo.<br>⚡ *Unity, Meta Quest, Blender, Web 3D.* |
 
 ---
 
@@ -42,7 +45,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JuniorSD6650&locale=es&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSD6650&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSD6650&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
