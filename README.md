@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero de Sistemas | Full Stack & Mobile Developer | 3D & VR Enthusiast</h3>
 
 <p align="center">
-  <em>Egresado de la Universidad de Huánuco. Especializado en crear soluciones web escalables, aplicaciones móviles con IA y experiencias inmersivas (VR/AR).</em>
+  <em>Bachiller en Ingeniería en Sistemas e Informática. Especializado en crear soluciones web escalables, aplicaciones móviles con IA y experiencias inmersivas (VR/AR).</em>
 </p>
 
 ---
